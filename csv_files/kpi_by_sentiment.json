@@ -1,0 +1,32 @@
+{
+  "daily_pnl": {
+    "Fear": 4994.1066,
+    "Greed": 4279.9188,
+    "Unknown": 3490.6831
+  },
+  "volume_usd": {
+    "Fear": 763973.3072,
+    "Greed": 335877.0386,
+    "Unknown": 514052.8702
+  },
+  "winrate": {
+    "Fear": 0.3702,
+    "Greed": 0.3601,
+    "Unknown": 0.3541
+  },
+  "daily_pnl_median": {
+    "Fear": 153.8458,
+    "Greed": 263.8869,
+    "Unknown": 178.5679
+  },
+  "volume_usd_median": {
+    "Fear": 84001.13,
+    "Greed": 64536.59,
+    "Unknown": 70567.97
+  },
+  "winrate_median": {
+    "Fear": 0.321,
+    "Greed": 0.3208,
+    "Unknown": 0.3333
+  }
+}
